@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am Youngjin*
+_Life is so tough_
+
+**But I never give up**
+__Enjoy this life, I mainly c++ nowadays__
+_wow I **can** do it_
+_I like java programming_
